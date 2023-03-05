@@ -6,10 +6,8 @@
 
 <p>Click the link below to navigate to the end user osTicket home page and select “Open a New Ticket”.  </p>
 
-</br>
 
 
-</br>
 
 <h3> Step 2: </h3>
 
@@ -47,8 +45,6 @@
 
 
 
-</br>
-
 <h3>Step 4: </h3>
 
 <p>Alex has gone ahead and solved the ticket but before he can close it out, he will verify with the end user if their problem was solved.</p>
@@ -59,7 +55,6 @@
 
 <p>After the end user verifies that everything works, the agent will document this in the ticketing system. Documentation is importan incase similar problems arise and other agents will have an idea on how to solve the issue.  </p>
 
-</br>
 
 
 <h3>Step 5:</h3>
